@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+img {
+    max-width: 200px;
+}
